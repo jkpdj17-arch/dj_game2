@@ -1,0 +1,6 @@
+{
+  "name": "쿠키 런닝 액션 - 크로스플랫폼 게임 기획안 & 플레이어블 프로토타입",
+  "description": "PC 및 모바일 지원 쿠키런 스타일 횡스크롤 런닝 액션 게임의 상세 기획서(GDD) 및 인터랙티브 플레이 프로토타입",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
